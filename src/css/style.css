@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url("./header.css");
-@import url("./sections.css");
+@import url("./artigo.css");
+@import url("./post.css");
 
 *{
     padding: 0;
@@ -12,6 +13,7 @@
     --cor-primaria: aliceblue;
     --cor-secundaria: #1c1c1c;
     --cor-detalhes: #2b58de;
+    --cor-destaque-texto: #5be7f7;
 }
 
 body{
@@ -21,4 +23,20 @@ body{
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
+}
+
+h5{
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--cor-destaque-texto);
+    
+}
+h3{
+    font-size: 25px;
+    font-weight: 300;
+}
+p{
+    font-size: 13px;
+    color: #ccc;
 }

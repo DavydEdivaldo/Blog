@@ -1,0 +1,21 @@
+
+.post{
+    margin-left: 33px;
+}
+
+.img-perfil{
+    width: 56px;
+    height: 56px;
+    background-color: var(--cor-secundaria);
+    border-radius: 50%;
+}
+.descript-perfil{
+    margin: 8px 10px !important;
+}
+.descript-perfil > h6{
+    color: var(--cor-destaque-texto);
+}
+
+.container-perfil{
+    margin-top: 8px;
+}

@@ -1,5 +1,6 @@
 
 .post{
+    width: 400px;
     margin-left: 33px;
 }
 
@@ -18,4 +19,7 @@
 
 .container-perfil{
     margin-top: 8px;
+}
+.margin-top-p{
+    margin-top: 5px;
 }

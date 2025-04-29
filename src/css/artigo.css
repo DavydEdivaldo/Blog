@@ -7,5 +7,6 @@
 
 .container-artigo{
     display: flex;
+    justify-content: center;
 }
 

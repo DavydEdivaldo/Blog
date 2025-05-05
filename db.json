@@ -1,32 +1,31 @@
-
 {
-    "posts": [
-        {
-            "id": 1,
-            "categoria": "Tecnologia",
-            "title": "O guia definitivo do blog",
-            "resumo": "lorem ipsum",
-            "descricao": "Irure deserunt reprehenderit magna amet sit id proident incididunt. Culpa aliqua et cupidatat ipsum amet velit mollit et. Est cupidatat laborum ullamco culpa officia proident aute Lorem culpa. Qui nulla duis elit officia Lorem velit do tempor mollit quis irure consectetur occaecat pariatur.",
-            "autor": "Autor do post",
-            "data": "Abril, 2025"
-        },
-        {
-            "id": 2,
-            "categoria": "Fotografia",
-            "title": "Quais melhores câmeras em 2025",
-            "resumo": "lorem ipsum",
-            "descricao": "Irure deserunt reprehenderit magna amet sit id proident incididunt. Culpa aliqua et cupidatat ipsum amet velit mollit et. Est cupidatat laborum ullamco culpa officia proident aute Lorem culpa. Qui nulla duis elit officia Lorem velit do tempor mollit quis irure consectetur occaecat pariatur.",
-            "autor": "Autor do post",
-            "data": "Abril, 2025"
-        },
-        {
-            "id": 3,
-            "categoria": "Cinema",
-            "title": "Os 10 melhores filmes de 2024",
-            "resumo": "lorem ipsum",
-            "descricao": "Irure deserunt reprehenderit magna amet sit id proident incididunt. Culpa aliqua et cupidatat ipsum amet velit mollit et. Est cupidatat laborum ullamco culpa officia proident aute Lorem culpa. Qui nulla duis elit officia Lorem velit do tempor mollit quis irure consectetur occaecat pariatur.",
-            "autor": "Autor do post",
-            "data": "Abril, 2025"
-        }
-        ]
+  "posts": [
+    {
+      "id": "1",
+      "categoria": "Tecnologia",
+      "title": "O guia definitivo do blog",
+      "resumo": "lorem ipsum",
+      "descricao": "Irure deserunt reprehenderit magna amet sit id proident incididunt. Culpa aliqua et cupidatat ipsum amet velit mollit et. Est cupidatat laborum ullamco culpa officia proident aute Lorem culpa. Qui nulla duis elit officia Lorem velit do tempor mollit quis irure consectetur occaecat pariatur.",
+      "autor": "Autor do post",
+      "data": "Abril, 2025"
+    },
+    {
+      "id": "2",
+      "categoria": "Fotografia",
+      "title": "Quais melhores câmeras em 2025",
+      "resumo": "lorem ipsum",
+      "descricao": "Irure deserunt reprehenderit magna amet sit id proident incididunt. Culpa aliqua et cupidatat ipsum amet velit mollit et. Est cupidatat laborum ullamco culpa officia proident aute Lorem culpa. Qui nulla duis elit officia Lorem velit do tempor mollit quis irure consectetur occaecat pariatur.",
+      "autor": "Autor do post",
+      "data": "Abril, 2025"
+    },
+    {
+      "id": "3",
+      "categoria": "Cinema",
+      "title": "Os melhores filmes de 2025",
+      "resumo": "lorem ipsum",
+      "descricao": "Irure deserunt reprehenderit magna amet sit id proident incididunt. Culpa aliqua et cupidatat ipsum amet velit mollit et. Est cupidatat laborum ullamco culpa officia proident aute Lorem culpa. Qui nulla duis elit officia Lorem velit do tempor mollit quis irure consectetur occaecat pariatur.",
+      "autor": "Autor do post",
+      "data": "Abril, 2025"
+    }
+  ]
 }

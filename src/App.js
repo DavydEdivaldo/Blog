@@ -1,12 +1,13 @@
 import Header from './componentes/Headers';
-import Artigo from './componentes/Artigos';
+//import Artigo from './componentes/Artigos';
+import Main from './pages/Main';
 
 function App() {
+
   return (
     <>
     <Header></Header>
-    <Artigo></Artigo>
-    
+    <Main></Main>
     </>
   );
 }

@@ -2,9 +2,19 @@ import api from '../../services/api'; // o ../../ é para sair da pasta pages e 
 import Post from '../../componentes/Posts';
 
 function Main (){
+
+    async function handleAxios(){
+        const response = await api.get('/posts');
+        console.log(response);
+    }
+
     return(
         <>
-            <h1>Main js</h1>
+            <section className='container'>
+                <h1>Main js</h1>
+                <button className='button-main' onClick={handleAxios}>Requisição</button>   
+            </section>
+
         </>
     )
 }

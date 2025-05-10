@@ -2,6 +2,7 @@
 @import url("./header.css");
 @import url("./artigo.css");
 @import url("./post.css");
+@import url("./main.css");
 
 *{
     padding: 0;
